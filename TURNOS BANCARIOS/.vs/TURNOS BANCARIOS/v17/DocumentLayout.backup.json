@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emilio Portillo\\source\\repos\\TURNOS BANCARIOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC92423-C748-4779-BA1B-412002677ECF}|TURNOS BANCARIOS\\TURNOS BANCARIOS.csproj|c:\\users\\emilio portillo\\source\\repos\\turnos bancarios\\turnos bancarios\\turnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC92423-C748-4779-BA1B-412002677ECF}|TURNOS BANCARIOS\\TURNOS BANCARIOS.csproj|solutionrelative:turnos bancarios\\turnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC92423-C748-4779-BA1B-412002677ECF}|TURNOS BANCARIOS\\TURNOS BANCARIOS.csproj|C:\\Users\\Emilio Portillo\\source\\repos\\TURNOS BANCARIOS\\turnos bancarios\\filtro1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC92423-C748-4779-BA1B-412002677ECF}|TURNOS BANCARIOS\\TURNOS BANCARIOS.csproj|solutionrelative:turnos bancarios\\filtro1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC92423-C748-4779-BA1B-412002677ECF}|TURNOS BANCARIOS\\TURNOS BANCARIOS.csproj|C:\\Users\\Emilio Portillo\\source\\repos\\TURNOS BANCARIOS\\turnos bancarios\\filtro2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC92423-C748-4779-BA1B-412002677ECF}|TURNOS BANCARIOS\\TURNOS BANCARIOS.csproj|solutionrelative:turnos bancarios\\filtro2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 329,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Filtro1.cs",
+              "DocumentMoniker": "C:\\Users\\Emilio Portillo\\source\\repos\\TURNOS BANCARIOS\\TURNOS BANCARIOS\\Filtro1.cs",
+              "RelativeDocumentMoniker": "TURNOS BANCARIOS\\Filtro1.cs",
+              "ToolTip": "C:\\Users\\Emilio Portillo\\source\\repos\\TURNOS BANCARIOS\\TURNOS BANCARIOS\\Filtro1.cs",
+              "RelativeToolTip": "TURNOS BANCARIOS\\Filtro1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:02:03.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Filtro2.cs",
+              "DocumentMoniker": "C:\\Users\\Emilio Portillo\\source\\repos\\TURNOS BANCARIOS\\TURNOS BANCARIOS\\Filtro2.cs",
+              "RelativeDocumentMoniker": "TURNOS BANCARIOS\\Filtro2.cs",
+              "ToolTip": "C:\\Users\\Emilio Portillo\\source\\repos\\TURNOS BANCARIOS\\TURNOS BANCARIOS\\Filtro2.cs",
+              "RelativeToolTip": "TURNOS BANCARIOS\\Filtro2.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:01:36.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Turnos.cs",
+              "DocumentMoniker": "C:\\Users\\Emilio Portillo\\source\\repos\\TURNOS BANCARIOS\\TURNOS BANCARIOS\\Turnos.cs",
+              "RelativeDocumentMoniker": "TURNOS BANCARIOS\\Turnos.cs",
+              "ToolTip": "C:\\Users\\Emilio Portillo\\source\\repos\\TURNOS BANCARIOS\\TURNOS BANCARIOS\\Turnos.cs*",
+              "RelativeToolTip": "TURNOS BANCARIOS\\Turnos.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:19:51.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

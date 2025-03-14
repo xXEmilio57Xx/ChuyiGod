@@ -1,0 +1,14 @@
+C:\Users\Emilio Portillo\source\repos\TURNOS BANCARIOS\TURNOS BANCARIOS\bin\Debug\TURNOS BANCARIOS.exe.config
+C:\Users\Emilio Portillo\source\repos\TURNOS BANCARIOS\TURNOS BANCARIOS\bin\Debug\TURNOS BANCARIOS.exe
+C:\Users\Emilio Portillo\source\repos\TURNOS BANCARIOS\TURNOS BANCARIOS\bin\Debug\TURNOS BANCARIOS.pdb
+C:\Users\Emilio Portillo\source\repos\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS BANCARIOS.csproj.AssemblyReference.cache
+C:\Users\Emilio Portillo\source\repos\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS_BANCARIOS.Form1.resources
+C:\Users\Emilio Portillo\source\repos\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS_BANCARIOS.Properties.Resources.resources
+C:\Users\Emilio Portillo\source\repos\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS BANCARIOS.csproj.GenerateResource.cache
+C:\Users\Emilio Portillo\source\repos\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS BANCARIOS.csproj.CoreCompileInputs.cache
+C:\Users\Emilio Portillo\source\repos\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS BANCARIOS.exe
+C:\Users\Emilio Portillo\source\repos\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS BANCARIOS.pdb
+C:\Users\Emilio Portillo\source\repos\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS_BANCARIOS.Menu.resources
+C:\Users\Emilio Portillo\source\repos\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS_BANCARIOS.Filtro1.resources
+C:\Users\Emilio Portillo\source\repos\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS_BANCARIOS.Filtro2.resources
+C:\Users\Emilio Portillo\source\repos\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS_BANCARIOS.Turnos.resources

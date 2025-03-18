@@ -37,10 +37,15 @@ namespace TURNOS_BANCARIOS
       {
             csTurnos.TipoServicio = true;
             menuPrincipal.AbrirFormHijo(new Turnos(menuPrincipal));
-         this.Close();
+            this.Close();
       }
 
         private void Filtro2_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_regresar_Click(object sender, EventArgs e)
         {
 
         }

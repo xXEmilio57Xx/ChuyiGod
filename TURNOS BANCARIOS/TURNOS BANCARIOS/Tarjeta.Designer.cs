@@ -35,6 +35,7 @@
             this.btnSinTarjeta = new System.Windows.Forms.Button();
             this.btnTarjeta = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.btn_regresar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label4
@@ -55,11 +56,11 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Segoe UI Semibold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(734, 409);
+            this.label3.Location = new System.Drawing.Point(154, 388);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(192, 30);
             this.label3.TabIndex = 14;
-            this.label3.Text = "Cliente Con Tarejta";
+            this.label3.Text = "Cliente Con Tarjeta";
             // 
             // label2
             // 
@@ -67,11 +68,11 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Segoe UI Semibold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(161, 409);
+            this.label2.Location = new System.Drawing.Point(724, 388);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(182, 30);
             this.label2.TabIndex = 13;
-            this.label2.Text = "Cliente Sin Tarejta";
+            this.label2.Text = "Cliente Sin Tarjeta";
             // 
             // btnSinTarjeta
             // 
@@ -79,7 +80,7 @@
             this.btnSinTarjeta.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
             this.btnSinTarjeta.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSinTarjeta.Image = ((System.Drawing.Image)(resources.GetObject("btnSinTarjeta.Image")));
-            this.btnSinTarjeta.Location = new System.Drawing.Point(88, 175);
+            this.btnSinTarjeta.Location = new System.Drawing.Point(634, 154);
             this.btnSinTarjeta.Name = "btnSinTarjeta";
             this.btnSinTarjeta.Size = new System.Drawing.Size(351, 231);
             this.btnSinTarjeta.TabIndex = 12;
@@ -92,7 +93,7 @@
             this.btnTarjeta.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
             this.btnTarjeta.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnTarjeta.Image = ((System.Drawing.Image)(resources.GetObject("btnTarjeta.Image")));
-            this.btnTarjeta.Location = new System.Drawing.Point(635, 175);
+            this.btnTarjeta.Location = new System.Drawing.Point(81, 154);
             this.btnTarjeta.Name = "btnTarjeta";
             this.btnTarjeta.Size = new System.Drawing.Size(351, 231);
             this.btnTarjeta.TabIndex = 11;
@@ -105,17 +106,31 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI Semibold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(387, 10);
+            this.label1.Location = new System.Drawing.Point(390, 36);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(291, 30);
             this.label1.TabIndex = 10;
             this.label1.Text = "Banco Santander Mexico S.A.";
             // 
-            // Filtro1
+            // btn_regresar
+            // 
+            this.btn_regresar.BackColor = System.Drawing.SystemColors.Control;
+            this.btn_regresar.BackgroundImage = global::TURNOS_BANCARIOS.Properties.Resources.regresar;
+            this.btn_regresar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.btn_regresar.FlatAppearance.BorderSize = 0;
+            this.btn_regresar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_regresar.Location = new System.Drawing.Point(0, -2);
+            this.btn_regresar.Name = "btn_regresar";
+            this.btn_regresar.Size = new System.Drawing.Size(58, 58);
+            this.btn_regresar.TabIndex = 16;
+            this.btn_regresar.UseVisualStyleBackColor = false;
+            // 
+            // Tarjeta
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1093, 443);
+            this.Controls.Add(this.btn_regresar);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -123,7 +138,7 @@
             this.Controls.Add(this.btnTarjeta);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "Filtro1";
+            this.Name = "Tarjeta";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Filtro1";
             this.Load += new System.EventHandler(this.Filtro1_Load);
@@ -140,5 +155,6 @@
       private System.Windows.Forms.Button btnSinTarjeta;
       private System.Windows.Forms.Button btnTarjeta;
       private System.Windows.Forms.Label label1;
-   }
+        private System.Windows.Forms.Button btn_regresar;
+    }
 }

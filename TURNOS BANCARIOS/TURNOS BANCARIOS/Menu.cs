@@ -15,7 +15,7 @@ namespace TURNOS_BANCARIOS
       public Menu()
       {
          InitializeComponent();
-         AbrirFormHijo(new Filtro1(this));
+         AbrirFormHijo(new Tarjeta(this));
       }
 
       private void Menu_FormClosed(object sender, FormClosedEventArgs e)
@@ -37,6 +37,9 @@ namespace TURNOS_BANCARIOS
          fh.Show();
       }
 
+        private void panelContenedor_Paint(object sender, PaintEventArgs e)
+        {
 
-   }
+        }
+    }
 }

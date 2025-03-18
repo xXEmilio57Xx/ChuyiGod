@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -64,23 +64,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Filtro1.cs">
+    <Compile Include="csTurnos.cs" />
+    <Compile Include="Tarjeta.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Filtro1.Designer.cs">
-      <DependentUpon>Filtro1.cs</DependentUpon>
+    <Compile Include="Tarjeta.Designer.cs">
+      <DependentUpon>Tarjeta.cs</DependentUpon>
     </Compile>
-    <Compile Include="Filtro2.cs">
+    <Compile Include="Operacion.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Filtro2.Designer.cs">
-      <DependentUpon>Filtro2.cs</DependentUpon>
+    <Compile Include="Operacion.Designer.cs">
+      <DependentUpon>Operacion.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="Inicio.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
     </Compile>
     <Compile Include="Menu.cs">
       <SubType>Form</SubType>
@@ -96,14 +97,14 @@
     <Compile Include="Turnos.Designer.cs">
       <DependentUpon>Turnos.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Filtro1.resx">
-      <DependentUpon>Filtro1.cs</DependentUpon>
+    <EmbeddedResource Include="Tarjeta.resx">
+      <DependentUpon>Tarjeta.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Filtro2.resx">
-      <DependentUpon>Filtro2.cs</DependentUpon>
+    <EmbeddedResource Include="Operacion.resx">
+      <DependentUpon>Operacion.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>

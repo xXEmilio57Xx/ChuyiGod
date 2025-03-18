@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Drawing;
+using System.Linq;
 using System.Windows.Forms;
 
 namespace TURNOS_BANCARIOS
@@ -6,55 +9,32 @@ namespace TURNOS_BANCARIOS
    public partial class Turnos : Form
    {
       private Menu menuPrincipal;
-      private string tipo = "";
-      private static int a = 1;
-      private static int b = 1;
-      private static int c = 1;
-      private static int d = 1;
-
-      static string[] cajas = new string[5];
-
-
-      public Turnos(Menu menu, string tipo)
+        csTurnos csTurnos = new csTurnos();
+        List<string> caja = new List<string>();
+        List<string> ejecutivo = new List<string>();
+      public Turnos(Menu menu)
       {
          InitializeComponent();
          this.menuPrincipal = menu;
-         this.tipo = tipo;
-         GetTurno(cajas);
-      }
-
-
-      private void GetTurno(string[] arreglo)
-      {
-         for (int i = 0; i < 5; i++)
-         {
-            if (string.IsNullOrEmpty(arreglo[i]))
-            {
-               switch (tipo)
-               {
-                  case "A": arreglo[i] = tipo + a.ToString(); a++; break;
-                  case "B": arreglo[i] = tipo + b.ToString(); b++; break;
-                  case "C": arreglo[i] = tipo + c.ToString(); c++; break;
-                  case "D": arreglo[i] = tipo + d.ToString(); d++; break;
-               }
-
-               break;
-            }
-
-         }
-      }
-
-
-      private void GuardarTurno(string[] arreglo)
-      {
-
       }
 
 
       private void btnNuevoTurno_Click(object sender, EventArgs e)
       {
-         menuPrincipal.AbrirFormHijo(new Filtro1(menuPrincipal));
+         menuPrincipal.AbrirFormHijo(new Tarjeta(menuPrincipal));
          this.Hide();
       }
-   }
+
+      private void Turnos_Load(object sender, EventArgs e)
+      {
+            csTurnos.LlenarListas();
+            caja = csTurnos.turnoCajaTarjeta.Concat(csTurnos.turnoCajaSinTarjeta).ToList();
+            ejecutivo = csTurnos.turnoEjecutivoTarjeta.Concat(csTurnos.turnoEjecutivoSinTarjeta).ToList();
+            csTurnos.AcomodarLista(caja, dg_caja);
+            csTurnos.AcomodarLista(ejecutivo, dg_ejecutivo);
+            dg_caja.DefaultCellStyle.Font = new Font("Microsoft YaHei", 14);
+            dg_ejecutivo.DefaultCellStyle.Font = new Font("Microsoft YaHei", 14);
+            //dg.ColumnHeadersDefaultCellStyle.Font = new Font("Microsoft YaHei", 14);
+        }
+    }
 }

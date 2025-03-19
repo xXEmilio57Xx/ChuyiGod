@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Abisai\\Desktop\\Trabajos\\ChuyiGod\\TURNOS BANCARIOS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DCC92423-C748-4779-BA1B-412002677ECF}|TURNOS BANCARIOS\\TURNOS BANCARIOS.csproj|c:\\users\\abisai\\desktop\\trabajos\\chuyigod\\turnos bancarios\\turnos bancarios\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC92423-C748-4779-BA1B-412002677ECF}|TURNOS BANCARIOS\\TURNOS BANCARIOS.csproj|solutionrelative:turnos bancarios\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC92423-C748-4779-BA1B-412002677ECF}|TURNOS BANCARIOS\\TURNOS BANCARIOS.csproj|c:\\users\\abisai\\desktop\\trabajos\\chuyigod\\turnos bancarios\\turnos bancarios\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCC92423-C748-4779-BA1B-412002677ECF}|TURNOS BANCARIOS\\TURNOS BANCARIOS.csproj|solutionrelative:turnos bancarios\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DCC92423-C748-4779-BA1B-412002677ECF}|TURNOS BANCARIOS\\TURNOS BANCARIOS.csproj|c:\\users\\abisai\\desktop\\trabajos\\chuyigod\\turnos bancarios\\turnos bancarios\\turnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCC92423-C748-4779-BA1B-412002677ECF}|TURNOS BANCARIOS\\TURNOS BANCARIOS.csproj|solutionrelative:turnos bancarios\\turnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +30,36 @@
       "DocumentGroups": [
         {
           "DockedHeight": 329,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Operacion.cs",
+              "DocumentMoniker": "C:\\Users\\Abisai\\Desktop\\Trabajos\\ChuyiGod\\TURNOS BANCARIOS\\TURNOS BANCARIOS\\Operacion.cs",
+              "RelativeDocumentMoniker": "TURNOS BANCARIOS\\Operacion.cs",
+              "ToolTip": "C:\\Users\\Abisai\\Desktop\\Trabajos\\ChuyiGod\\TURNOS BANCARIOS\\TURNOS BANCARIOS\\Operacion.cs",
+              "RelativeToolTip": "TURNOS BANCARIOS\\Operacion.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:33:28.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Abisai\\Desktop\\Trabajos\\ChuyiGod\\TURNOS BANCARIOS\\TURNOS BANCARIOS\\Operacion.cs",
+              "RelativeDocumentMoniker": "TURNOS BANCARIOS\\Operacion.cs",
+              "ToolTip": "C:\\Users\\Abisai\\Desktop\\Trabajos\\ChuyiGod\\TURNOS BANCARIOS\\TURNOS BANCARIOS\\Operacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TURNOS BANCARIOS\\Operacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:33:25.276Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Filtro1.cs",
               "DocumentMoniker": "C:\\Users\\Abisai\\Desktop\\Trabajos\\ChuyiGod\\TURNOS BANCARIOS\\TURNOS BANCARIOS\\Filtro1.cs",
               "RelativeDocumentMoniker": "TURNOS BANCARIOS\\Filtro1.cs",
@@ -34,12 +67,11 @@
               "RelativeToolTip": "TURNOS BANCARIOS\\Filtro1.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T21:02:03.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T21:02:03.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Filtro2.cs",
               "DocumentMoniker": "C:\\Users\\Abisai\\Desktop\\Trabajos\\ChuyiGod\\TURNOS BANCARIOS\\TURNOS BANCARIOS\\Filtro2.cs",
               "RelativeDocumentMoniker": "TURNOS BANCARIOS\\Filtro2.cs",
@@ -47,18 +79,17 @@
               "RelativeToolTip": "TURNOS BANCARIOS\\Filtro2.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAYwDQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T21:01:36.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T21:01:36.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Turnos.cs",
               "DocumentMoniker": "C:\\Users\\Abisai\\Desktop\\Trabajos\\ChuyiGod\\TURNOS BANCARIOS\\TURNOS BANCARIOS\\Turnos.cs",
               "RelativeDocumentMoniker": "TURNOS BANCARIOS\\Turnos.cs",
               "ToolTip": "C:\\Users\\Abisai\\Desktop\\Trabajos\\ChuyiGod\\TURNOS BANCARIOS\\TURNOS BANCARIOS\\Turnos.cs",
               "RelativeToolTip": "TURNOS BANCARIOS\\Turnos.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T21:19:51.765Z",
               "EditorCaption": ""

@@ -13,6 +13,7 @@ namespace TURNOS_BANCARIOS
    public partial class Operacion : Form
    {
       private Menu menuPrincipal;
+      
 
       public Operacion(Menu menu)
       {
@@ -47,7 +48,8 @@ namespace TURNOS_BANCARIOS
 
         private void btn_regresar_Click(object sender, EventArgs e)
         {
-
+            menuPrincipal.AbrirFormHijo(new Tarjeta(menuPrincipal));
+            this.Hide();
         }
     }
 }

@@ -26,3 +26,17 @@ D:\Universidad\Semestre 6\Sistemas para la toma de decisiones\ChuyiGod-main\TURN
 D:\Universidad\Semestre 6\Sistemas para la toma de decisiones\ChuyiGod-main\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS_BANCARIOS.Tarjeta.resources
 D:\Universidad\Semestre 6\Sistemas para la toma de decisiones\ChuyiGod-main\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS_BANCARIOS.Operacion.resources
 D:\Universidad\Semestre 6\Sistemas para la toma de decisiones\ChuyiGod-main\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS_BANCARIOS.Inicio.resources
+C:\Users\Abisai\Desktop\Trabajos\ChuyiGod\TURNOS BANCARIOS\TURNOS BANCARIOS\bin\Debug\TURNOS BANCARIOS.exe.config
+C:\Users\Abisai\Desktop\Trabajos\ChuyiGod\TURNOS BANCARIOS\TURNOS BANCARIOS\bin\Debug\TURNOS BANCARIOS.exe
+C:\Users\Abisai\Desktop\Trabajos\ChuyiGod\TURNOS BANCARIOS\TURNOS BANCARIOS\bin\Debug\TURNOS BANCARIOS.pdb
+C:\Users\Abisai\Desktop\Trabajos\ChuyiGod\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS BANCARIOS.csproj.AssemblyReference.cache
+C:\Users\Abisai\Desktop\Trabajos\ChuyiGod\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS_BANCARIOS.Tarjeta.resources
+C:\Users\Abisai\Desktop\Trabajos\ChuyiGod\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS_BANCARIOS.Operacion.resources
+C:\Users\Abisai\Desktop\Trabajos\ChuyiGod\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS_BANCARIOS.Inicio.resources
+C:\Users\Abisai\Desktop\Trabajos\ChuyiGod\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS_BANCARIOS.Menu.resources
+C:\Users\Abisai\Desktop\Trabajos\ChuyiGod\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS_BANCARIOS.Properties.Resources.resources
+C:\Users\Abisai\Desktop\Trabajos\ChuyiGod\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS_BANCARIOS.Turnos.resources
+C:\Users\Abisai\Desktop\Trabajos\ChuyiGod\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS BANCARIOS.csproj.GenerateResource.cache
+C:\Users\Abisai\Desktop\Trabajos\ChuyiGod\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS BANCARIOS.csproj.CoreCompileInputs.cache
+C:\Users\Abisai\Desktop\Trabajos\ChuyiGod\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS BANCARIOS.exe
+C:\Users\Abisai\Desktop\Trabajos\ChuyiGod\TURNOS BANCARIOS\TURNOS BANCARIOS\obj\Debug\TURNOS BANCARIOS.pdb

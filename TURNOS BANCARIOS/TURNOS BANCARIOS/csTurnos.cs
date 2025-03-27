@@ -15,8 +15,10 @@ namespace TURNOS_BANCARIOS
         public static List<string> turnoCajaTarjeta = new List<string>();
         public static List<string> turnoCajaSinTarjeta = new List<string>();
 
-        public static int turnoCaja = 1;
-        public static int turnoEjecutivo = 1;
+        public static int turno_Caja_tarjeta = 1;
+        public static int turno_Caja_sin_tarjeta = 1;
+        public static int turno_Ejecutivo_tarjeta = 1;
+        public static int turno_Ejecutivo_sin_tarjeta = 1;
 
         public static bool TieneTarjeta { get; set; }
         //true = caja, false = ejecutivo
@@ -32,14 +34,14 @@ namespace TURNOS_BANCARIOS
                     if(TipoServicio == true)
                     {
                         //caja
-                        turnoCajaTarjeta.Add("A" + turnoCaja);
-                        turnoCaja++;
+                        turnoCajaTarjeta.Add("A" + turno_Caja_tarjeta);
+                        turno_Caja_tarjeta++;
                     }
                     else
                     {
                         //ejecutivo
-                        turnoEjecutivoTarjeta.Add("B" + turnoEjecutivo);
-                        turnoEjecutivo++;
+                        turnoEjecutivoTarjeta.Add("B" + turno_Caja_sin_tarjeta);
+                        turno_Caja_sin_tarjeta++;
                     }
                 }
                 else
@@ -47,14 +49,14 @@ namespace TURNOS_BANCARIOS
                     if(TipoServicio == true)
                     {
                         //caja
-                        turnoCajaSinTarjeta.Add("C" + turnoCaja);
-                        turnoCaja++;
+                        turnoCajaSinTarjeta.Add("C" + turno_Ejecutivo_tarjeta);
+                        turno_Ejecutivo_tarjeta++;
                     }
                     else
                     {
                         //ejecutivo
-                        turnoEjecutivoSinTarjeta.Add("D" + turnoEjecutivo);
-                        turnoEjecutivo++;
+                        turnoEjecutivoSinTarjeta.Add("D" + turno_Ejecutivo_sin_tarjeta);
+                        turno_Ejecutivo_sin_tarjeta++;
                     }
                 }
 
@@ -80,6 +82,7 @@ namespace TURNOS_BANCARIOS
 
                 // Limitar el tamaño de la lista a 5 elementos (si es necesario)
                 var listaLimitada = lista.Take(5).ToList();
+
 
                 // Agregar una fila vacía para colocar los datos
                 dg.Rows.Add();
